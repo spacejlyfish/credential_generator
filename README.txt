@@ -1,3 +1,6 @@
+Can be used to create random but real looking username, firstname, name, etc..
+
+
 Add main.py to folder containing origin country
 run the script
 enter how many you need
